@@ -2,3 +2,19 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    
+
+}
+
+mat-card{
+    border-radius: 0 !important;
+}
+
+button {
+    border-radius: 0 !important;
+}
